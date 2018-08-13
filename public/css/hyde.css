@@ -85,7 +85,10 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.sidebar-menu {
+  margin-bottom: 3rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -97,6 +100,10 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+.sidebar-nav-item1 {
+  display: inline;
+  margin-right: 1.6rem;
 }
 
 /* Sticky sidebar
