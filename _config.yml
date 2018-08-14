@@ -7,8 +7,8 @@ permalink:        pretty
 # Setup
 title:            Andrii Omelianovych
 description:      'Description'
-url:              'https://vedmid.github.io'
-baseurl:          /
+url:              https://vedmid.github.io
+baseurl:          
 
 
 paginate:         5
